@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/7d9edd39f2e1c30fdfd42566671894d0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/a516ca68985272e0834e9679b08eb2ed/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/27e8258922519cb8da1b4845c7d53bd0/AndroidManifest.xml:17:1-22:12
@@ -39,9 +39,9 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/xandracabr
 MERGED from [com.android.support:print:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/2119afafe9527a267950f29eb5458824/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/e589c4c1ec0a28ba3a8bbe13bbc13c0e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/872a8715d174eea0d02f8acba8940048/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml
@@ -65,7 +65,7 @@ ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app
 	android:name
 		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:10:5-38:19
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:10:5-39:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/da3de21e0cc03a1f2bc415bb57ec6cd6/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/da3de21e0cc03a1f2bc415bb57ec6cd6/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/4ad1a0207dfff92412eb7e042562a07f/AndroidManifest.xml:11:5-20
@@ -77,59 +77,63 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/xandracabrer
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/cfd9d1e2d78ec8597efe053dec1417d3/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:15:9-40
 	android:usesCleartextTraffic
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:12:9-44
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:17:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:17:9-63
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:18:9-54
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:17:19-51
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:18:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:18:9-37:20
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:19:9-38:20
 	android:label
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:21:13-44
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:22:13-44
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:19:13-42
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:20:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:26:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:27:13-36:29
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:28:13-37:29
 action#android.intent.action.VIEW
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:30:17-76
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:30:27-73
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:31:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:31:17-78
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:32:17-78
 	android:name
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:31:27-75
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:32:27-75
 data
-ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:33:17-35:62
+ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:34:17-36:62
 	android:host
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:34:21-55
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:35:21-55
 	android:scheme
-		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:35:21-59
+		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:36:21-59
 uses-sdk
 INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml
