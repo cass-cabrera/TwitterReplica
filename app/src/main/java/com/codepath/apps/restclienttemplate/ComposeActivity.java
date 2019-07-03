@@ -4,6 +4,8 @@ import android.content.Intent;
 import android.preference.PreferenceActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -25,6 +27,7 @@ public class ComposeActivity extends AppCompatActivity {
     EditText edit;
     Button button;
     TwitterClient client;
+    TextView charCount;
 
     public static final String RESULT_TWEET_KEY = "result";
 
@@ -35,14 +38,32 @@ public class ComposeActivity extends AppCompatActivity {
 
         edit = findViewById(R.id.editText);
         client = TwitterApp.getRestClient(this);
-
-
+        charCount = findViewById(R.id.charCount);
         button = findViewById(R.id.button);
+
+        charCount.setText("280");
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 sendTweet();
+            }
+        });
+
+        edit.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+                charCount.setText(Integer.toString(280 - edit.getText().length()));
             }
         });
     }

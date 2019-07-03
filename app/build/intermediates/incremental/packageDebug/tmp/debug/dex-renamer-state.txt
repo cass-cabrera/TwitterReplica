@@ -1,4 +1,4 @@
-#Tue Jul 02 17:31:57 PDT 2019
+#Tue Jul 02 20:28:58 PDT 2019
 base.0=/Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex
