@@ -5,6 +5,7 @@ INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/
 INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:2:1-41:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/7d9edd39f2e1c30fdfd42566671894d0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/54e9d56b02fb4eb3730b1ed849884a16/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/a516ca68985272e0834e9679b08eb2ed/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/27e8258922519cb8da1b4845c7d53bd0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/da3de21e0cc03a1f2bc415bb57ec6cd6/AndroidManifest.xml:2:1-11:12
@@ -16,6 +17,7 @@ MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/xandrac
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/cfb4c131591f2c2886b7670b24830f4a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/fca2a9f94b6fd4067ea620953ad7fb61/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/06c40a82c3c02dd0df871a5625c26929/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9c6c3faedc3de0c6e2ad039eeac465f6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/2e6a947069e85cad98b708b7fa87a19c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/ee149d05498f49e8af62ec4acd6f31e7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/aff585f63c25f2d35a09284b6d779876/AndroidManifest.xml:17:1-22:12
@@ -33,6 +35,7 @@ MERGED from [android.arch.persistence:db:1.1.1] /Users/xandracabrera/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/c25d2c8b71f68c0ed5dc1cfcc67e5f54/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/16db977dde0691e121b81a7a8c95b245/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/4203daae2abcf750eec423f1e2681c4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/bc6ee9e65290bd97db12a03f2d174a98/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9e8a58647f8d60ee931c51938d4b2ce6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/138ebb15335ad8b728813264f4163630/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/f8e1d155d7ad38cb4829720015641a7e/AndroidManifest.xml:17:1-22:12
@@ -66,6 +69,8 @@ ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app
 		ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:8:22-78
 application
 ADDED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml:10:5-39:19
+MERGED from [com.android.support:design:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/54e9d56b02fb4eb3730b1ed849884a16/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/54e9d56b02fb4eb3730b1ed849884a16/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/da3de21e0cc03a1f2bc415bb57ec6cd6/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/da3de21e0cc03a1f2bc415bb57ec6cd6/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/4ad1a0207dfff92412eb7e042562a07f/AndroidManifest.xml:11:5-20
@@ -140,6 +145,8 @@ INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/
 INJECTED from /Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/src/main/AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/7d9edd39f2e1c30fdfd42566671894d0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/7d9edd39f2e1c30fdfd42566671894d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/54e9d56b02fb4eb3730b1ed849884a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/54e9d56b02fb4eb3730b1ed849884a16/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/a516ca68985272e0834e9679b08eb2ed/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/a516ca68985272e0834e9679b08eb2ed/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/27e8258922519cb8da1b4845c7d53bd0/AndroidManifest.xml:20:5-44
@@ -162,6 +169,8 @@ MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xandracabrera
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/fca2a9f94b6fd4067ea620953ad7fb61/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/06c40a82c3c02dd0df871a5625c26929/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/06c40a82c3c02dd0df871a5625c26929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9c6c3faedc3de0c6e2ad039eeac465f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9c6c3faedc3de0c6e2ad039eeac465f6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/2e6a947069e85cad98b708b7fa87a19c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/2e6a947069e85cad98b708b7fa87a19c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/ee149d05498f49e8af62ec4acd6f31e7/AndroidManifest.xml:20:5-44
@@ -196,6 +205,8 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xandracabrera/.g
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/16db977dde0691e121b81a7a8c95b245/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/4203daae2abcf750eec423f1e2681c4d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/4203daae2abcf750eec423f1e2681c4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/bc6ee9e65290bd97db12a03f2d174a98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/bc6ee9e65290bd97db12a03f2d174a98/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9e8a58647f8d60ee931c51938d4b2ce6/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/9e8a58647f8d60ee931c51938d4b2ce6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/138ebb15335ad8b728813264f4163630/AndroidManifest.xml:20:5-44

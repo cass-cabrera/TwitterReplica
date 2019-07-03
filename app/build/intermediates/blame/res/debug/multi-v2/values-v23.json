@@ -4,6 +4,25 @@
             "outputFile": "/Users/xandracabrera/AndroidStudioProjects/Twitter/TwitterReplica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
+                    "source": "/Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/bc6ee9e65290bd97db12a03f2d174a98/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
                     "source": "/Users/xandracabrera/.gradle/caches/transforms-2/files-2.1/a516ca68985272e0834e9679b08eb2ed/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
