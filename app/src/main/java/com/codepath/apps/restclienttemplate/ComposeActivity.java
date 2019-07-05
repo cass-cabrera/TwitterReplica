@@ -1,7 +1,6 @@
 package com.codepath.apps.restclienttemplate;
 
 import android.content.Intent;
-import android.preference.PreferenceActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Editable;
@@ -83,14 +82,14 @@ public class ComposeActivity extends AppCompatActivity {
                         setResult(RESULT_OK, resultData);
                         finish();
                     } catch (JSONException e) {
-                        Log.e("ComposeActivity", "Error parsing response");
+                        Log.e("ComposeActivity", "Error parsing response1");
                     }
                 }
             }
 
             @Override
             public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
-                Log.e("ComposeActivity", "Error parsing response");
+                Log.e("ComposeActivity", "Error parsing response2");
             }
         });
     }

@@ -20,6 +20,10 @@ public class Tweet {
     public User user;
     public String createdAt;
     public String date;
+    public long likeCount;
+    public boolean isLiked;
+    public long retweetCount;
+    public boolean isRetweet;
 
     public static Tweet fromJSON(JSONObject jsonObject) throws JSONException {
         Tweet tweet = new Tweet();
@@ -29,6 +33,10 @@ public class Tweet {
         tweet.createdAt = jsonObject.getString("created_at");
         tweet.user = User.fromJSON(jsonObject.getJSONObject("user"));
         tweet.date = jsonObject.getString("created_at");
+        tweet.isLiked = jsonObject.getBoolean("favorited");
+        tweet.likeCount = jsonObject.getLong("favorite_count");
+        tweet.isRetweet =jsonObject.getBoolean("retweeted");
+        tweet.retweetCount = jsonObject.getLong("retweet_count");
         return tweet;
     }
 

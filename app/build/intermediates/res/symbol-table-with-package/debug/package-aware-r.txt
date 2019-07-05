@@ -1154,6 +1154,7 @@ id ivProfileImage
 id labeled
 id largeLabel
 id left
+id likeButt
 id line1
 id line3
 id listMode
@@ -1185,6 +1186,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id retweetButt
 id right
 id right_icon
 id right_side

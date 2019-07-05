@@ -6,6 +6,7 @@ import com.codepath.oauth.OAuthBaseClient;
 import com.github.scribejava.apis.FlickrApi;
 import com.github.scribejava.apis.TwitterApi;
 import com.github.scribejava.core.builder.api.BaseApi;
+import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 
@@ -57,6 +58,34 @@ public class TwitterClient extends OAuthBaseClient {
 		// Can specify query string params directly or through RequestParams.
 		RequestParams params = new RequestParams();
 		params.put("status", message);
+		client.post(apiUrl, params, handler);
+	}
+
+	public void likeTweet(long id, AsyncHttpResponseHandler handler) {
+		String apiUrl = getApiUrl("favorites/create.json");
+		RequestParams params = new RequestParams();
+		params.put("id", id);
+		client.post(apiUrl, params, handler);
+	}
+
+	public void unlikeTweet(long id, AsyncHttpResponseHandler handler) {
+		String apiUrl = getApiUrl("favorites/destroy.json");
+		RequestParams params = new RequestParams();
+		params.put("id", id);
+		client.post(apiUrl, params, handler);
+	}
+
+	public void retweet(long id, AsyncHttpResponseHandler handler) {
+		String apiUrl = getApiUrl("statuses/retweet/" + id + ".json");
+		RequestParams params = new RequestParams();
+		params.put("id", id);
+		client.post(apiUrl, params, handler);
+	}
+
+	public void unRetweet(long id, AsyncHttpResponseHandler handler) {
+		String apiUrl = getApiUrl("statuses/unretweet/" + id + ".json");
+		RequestParams params = new RequestParams();
+		params.put("id", id);
 		client.post(apiUrl, params, handler);
 	}
 
